@@ -1,0 +1,4 @@
+001 | Kungfu Panda 3 | 19 | 03 | 2016 | 19.00 | 4 | 140000 | Kartu Kredit
+002 | Kungfu Panda 3 | 19 | 03 | 2016 | 19.00 | 4 | 40000 | Member
+003 | Kungfu Panda 3 | 19 | 03 | 2016 | 19.00 | 4 | 40000 | Member
+004 | Kungfu Panda 3 | 19 | 03 | 2016 | 19.00 | 4 | 90000 | Member
